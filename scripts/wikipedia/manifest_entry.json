@@ -1,0 +1,11 @@
+{
+    "matches": [
+        "https://en.wikipedia.org/wiki/*"
+    ],
+    "exclude_matches": [
+        "https://en.wikipedia.org/wiki/Special:*",
+        "https://en.wikipedia.org/wiki/Help:*",
+        "https://en.wikipedia.org/wiki/Talk:*"
+    ],
+    "run_at": "document_end"
+}
